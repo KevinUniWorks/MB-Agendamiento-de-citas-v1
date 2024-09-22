@@ -1,0 +1,2 @@
+Esta aplicación fue desarrollada por motivos de estudio aun es una fase Beta, con funciones sencillas para la práctica y aprendizaje.
+El objetivo del aplicativo es el agendamiento de citas, donde se almacenan los datos del usuario como la cedula, nombre y apellido y número de teléfono, también el usuario puede elegir la fecha y hora en el que desea agendar su cita y por ultimo se mostraran al estilo de una factura los detalles de su cita, Cedula, Nombre y Apellido, Número de teléfono y la fecha y hora en la cual se agendo la cita.
